@@ -114,7 +114,7 @@ Create a new folder for your installation and clone the official MIMO images int
 ```
 sudo -s
 mkdir /var/mimo
-git clone https://github.com/mimolabs/docker-compose.git /var/mimo
+git clone https://github.com/mimolabs/mimo-docker.git /var/mimo
 cd /var/mimo
 ./docker-install.sh
 ```
