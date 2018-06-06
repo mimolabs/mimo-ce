@@ -131,3 +131,4 @@ After the installation has completed, you should receive a welcome message.
 
 The email that was sent includes a magic link that will allow you to complete the installation. If you did not get the email, please check your spam and ensure you set the correct SMTP credentials.
 
+If you're sure the email is not in your spam - re-check your SMTP credentials. Run the installer again, adding the correct variables. 
