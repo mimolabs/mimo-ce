@@ -49,11 +49,11 @@ For example, if your public IP address is 1.2.3.4 and your chosen domain is wisp
 
 Make sure these resolve *before* you start the installation.
 
-We recommend using Cloudflare for your DNS however it's up to you who you chose. If you're using Cloudflare, you will need to disable their firewall before the installation. You can reactivate this afterwards.
+We recommend using Cloudflare for your DNS however it's up to you who you choose. **If you're using Cloudflare, you will need to disable their firewall before the installation. You can reactivate this afterwards.**
 
 ## Firewall
 
-Ports 80 and 443 must be allowed - update your firewall settings to ensure these are open and accessible.
+Ports 80 and 443 must be allowed through your firewall. Update your settings to ensure these are open and accessible (to everyone).
 
 ## Email Server
 
@@ -69,9 +69,9 @@ We do not recommend using Gmail's SMTP server or your own one. The ones above ar
 
 ## Login to your server
 
-bla bla bla
+bla bla bla write some guff in here.
 
-Using your favourite shell, including putty or ssh, login to your newly created server:
+Using your favourite shell (like putty or ssh) - login to your newly created server:
 
 ```
 ssh root@ip-address
@@ -80,6 +80,8 @@ ssh root@ip-address
 If you're using [Digital Ocean](https://m.do.co/c/8504487cbb3a), you will need to update your password.
 
 ### Install Docker and Git
+
+To complete the installation, you'll need Git and Docker on your new server.
 
 ```
 wget -qO- https://get.docker.com/ | sh
@@ -109,7 +111,7 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 ### Install MIMO
 
-Create a new folder for your installation and clone the official MIMO images into it:
+Finally, we will install MIMO! Create a new folder for your installation and clone the official MIMO images into it:
 
 ```
 sudo -s
@@ -122,6 +124,8 @@ cd /var/mimo
 You must enter valid SMTP credentials otherwise your MIMO installation won't work.
 
 After the installation has completed, you should receive a welcome message.
+
+**It can take a while for the installer to finish, especially on the first run. This is because we need to make some private keys for your installation.**
 
 ### Finishing Up
 
