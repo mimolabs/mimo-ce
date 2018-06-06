@@ -1,2 +1,1 @@
-# mimo-ce
-MIMO Community Edition
+# MIMO Community Edition
