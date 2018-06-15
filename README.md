@@ -32,9 +32,9 @@ At the time of writing, MIMO CE is almost idential to the enterprise version wit
 
 ### Free Support
 
-The standard MIMO docs are (here) [https://docs.oh-mimo.com]. These don't include much information about the Community Edition yet. 
+The standard MIMO docs are [here] (https://docs.oh-mimo.com). These don't include much information about the Community Edition yet. 
 
-The brand-new forum can be found (here) [https://discuss.oh-mimo.com/]
+The brand-new forum can be found [here] (https://discuss.oh-mimo.com/)
 
 We don't offer email or phone support - if you have a problem, please start a conversation on the forums.
 
@@ -44,13 +44,13 @@ You can purchase enterprise support for the Community Edition - just email us on
 
 ### Hosting
 
-If you need us to host your MIMO service, you can sign-up for one of the enterprise plans over (here)[https://oh-mimo.com/plans].
+If you need us to host your MIMO service, you can sign-up for one of the enterprise plans over [here](https://oh-mimo.com/plans).
 
 ### Installation Support
 
 We can install MIMO for you on your own Digital Ocean server for $149 USD. Please note: there's an ongoing cost of $10 per month for the server (MIMO needs at least 2Gb RAM). You pay the ongoing costs to Digital Ocean directly. 
 
-Create your Digital Ocean server (here)[https://m.do.co/c/8504487cbb3a] (this link gives you $10 credit so you get a month free). Then drop us a line on team@oh-mimo and we'll sort the rest. 
+Create your Digital Ocean server [here](https://m.do.co/c/8504487cbb3a) (this link gives you $10 credit so you get a month free). Then drop us a line on team@oh-mimo and we'll sort the rest. 
 
 You must have your domain, DNS and email credentials ready. 
 
