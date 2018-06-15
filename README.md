@@ -32,9 +32,9 @@ At the time of writing, MIMO CE is almost idential to the enterprise version wit
 
 ### Free Support
 
-The standard MIMO docs are [here] (https://docs.oh-mimo.com). These don't include much information about the Community Edition yet. 
+The standard MIMO docs are [here](https://docs.oh-mimo.com). These don't include much information about the Community Edition yet. 
 
-The brand-new forum can be found [here] (https://discuss.oh-mimo.com/)
+The brand-new forum can be found [here](https://discuss.oh-mimo.com/)
 
 We don't offer email or phone support - if you have a problem, please start a conversation on the forums.
 
