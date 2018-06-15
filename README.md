@@ -6,6 +6,15 @@ It includes everything you need to operate a guest network. This includes:
 
 1. Splash pages
 2. Email capture
+3. Email campaigns (coming soon)
+
+It works with Ubiquiti UniFi only right now but we'll be adding support for Ruckus, Cisco, Aruba, OpenMesh, Meraki and more soon.
+
+### Integration MIMO
+
+MIMO currently works with UniFi devices only. Your UniFi controller must have a public IP and be accessible. The CE integrations work in the same way as our enterprise version. The docs for this can be found (here)[https://docs.oh-mimo.com/integrations/ubiquiti-unifi-splash-integration].
+
+Connecting MIMO to your UniFi controller should take less than 30 seconds. The MIMO service will set everything up for you including a guest SSID, captive portal.
 
 ### The core modules include:
 
@@ -35,7 +44,7 @@ You can purchase enterprise support for the Community Edition - just email us on
 
 ### Hosting
 
-If you need us to host your
+If you need us to host your MIMO service, you can sign-up for one of the enterprise plans over (here)[https://oh-mimo.com/plans].
 
 ### Installation Support
 
