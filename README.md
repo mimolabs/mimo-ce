@@ -14,7 +14,7 @@ It works with Ubiquiti UniFi only right now but we'll be adding support for Ruck
 
 MIMO currently works with UniFi devices only. Your UniFi controller must have a public IP and be accessible. The CE integrations work in the same way as our enterprise version. The docs for this can be found [here](https://docs.oh-mimo.com/integrations/ubiquiti-unifi-splash-integration).
 
-Connecting MIMO to your UniFi controller should take less than 30 seconds. The MIMO service will set everything up for you including a guest SSID, captive portal.
+Connecting MIMO to your UniFi controller should take less than 30 seconds. The MIMO service will set everything up for you including a guest SSID & captive portal.
 
 ### The core modules include:
 
