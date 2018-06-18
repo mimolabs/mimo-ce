@@ -10,7 +10,7 @@ It includes everything you need to operate a guest network. This includes:
 
 It works with Ubiquiti UniFi only right now but we'll be adding support for Ruckus, Cisco, Aruba, OpenMesh, Meraki and more soon.
 
-### Integration MIMO
+### Integrating MIMO
 
 MIMO currently works with UniFi devices only. Your UniFi controller must have a public IP and be accessible. The CE integrations work in the same way as our enterprise version. The docs for this can be found [here](https://docs.oh-mimo.com/integrations/ubiquiti-unifi-splash-integration).
 
